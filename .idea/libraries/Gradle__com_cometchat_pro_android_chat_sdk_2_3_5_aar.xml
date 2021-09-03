@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cometchat:pro-android-chat-sdk:2.3.5@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ced320b28e1eb918616e0a5ec49bf8f/jetified-pro-android-chat-sdk-2.3.5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4179f4813f42efeb8678264f102a332d/jetified-pro-android-chat-sdk-2.3.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eee980778e378bf485688d5bfe2ab6c4/jetified-pro-android-chat-sdk-2.3.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ced320b28e1eb918616e0a5ec49bf8f/jetified-pro-android-chat-sdk-2.3.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ced320b28e1eb918616e0a5ec49bf8f/jetified-pro-android-chat-sdk-2.3.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ced320b28e1eb918616e0a5ec49bf8f/jetified-pro-android-chat-sdk-2.3.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
